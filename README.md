@@ -1,6 +1,5 @@
 # 🚀 My Portfolio
-
-Welcome to my GitHub portfolio! Here you'll find an overview of my skills, experiences, and achievements.
+저는 사람들에게 편리하고 직관적인 경험을 제공하는 개발자가 되고자 합니다. 복잡한 기술을 단순하고 쉽게 풀어내어, 누구나 편안하게 사용할 수 있는 제품을 만드는 것이 제 비전입니다. 끊임없는 배움과 개선을 통해 사용자 친화적인 소프트웨어를 개발해 나가겠습니다
 
 ## 🛠️ Stack
 
