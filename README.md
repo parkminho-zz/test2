@@ -37,8 +37,9 @@ Welcome to my GitHub portfolio! Here you'll find an overview of my skills, exper
 - **Version Control:** ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 🧩 Algorithm Level
-- **Problem-Solving Platforms:** LeetCode (Gold), HackerRank (5 Star), Baekjoon
-- **Competitions:** Google Code Jam Participant, ACM-ICPC Regional Finalist
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solveall)](https://solved.ac/solveall/)
+
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 
 ## 🏆 Awards & Recognition
 - **1st Place:** XYZ Coding Challenge 2023
