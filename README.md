@@ -48,5 +48,5 @@ Welcome to my GitHub portfolio! Here you'll find an overview of my skills, exper
 
 
 ## 🎓 Education
-- **SSAFY** (삼성 청년 소프트웨어 아카데미), 2023. 1 ~ 현재
+- **SSAFY** (삼성 청년 소프트웨어 아카데미), 2024. 1 ~ 현재
 
