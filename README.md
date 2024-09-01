@@ -40,9 +40,7 @@ Welcome to my GitHub portfolio! Here you'll find an overview of my skills, exper
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solveall)](https://solved.ac/solveall/)
 
 ## 🏆 Awards & Recognition
-- **1st Place:** XYZ Coding Challenge 2023
-- **Dean's List:** XYZ University (2020-2022)
-- **Certifications:** AWS Certified Solutions Architect
+- **SSAFY:** 공통프로젝트 우수상(1등)
 
 ## 💼 Professional Experience
 ### Software Engineer at ABC Corp
