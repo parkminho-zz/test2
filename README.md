@@ -3,11 +3,7 @@
 Welcome to my GitHub portfolio! Here you'll find an overview of my skills, experiences, and achievements.
 
 ## 🛠️ Stack
-- **Programming Languages:** Python, JavaScript, C++
-- **Frameworks & Libraries:** React, Django, TensorFlow
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **DevOps & Cloud:** Docker, Kubernetes, AWS
-- **Others:** Git, RESTful API, GraphQL
+#4FC08D
 
 ## 🧰 Tools
 - **Development Tools:** Visual Studio Code, IntelliJ IDEA
