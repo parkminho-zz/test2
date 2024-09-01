@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! Here you'll find an overview of my skills, experiences, and achievements.
 
 ## 🛠️ Stack
-https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🧰 Tools
 - **Development Tools:** Visual Studio Code, IntelliJ IDEA
