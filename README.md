@@ -53,20 +53,3 @@ Welcome to my GitHub portfolio! Here you'll find an overview of my skills, exper
 
 ## 🎓 Education
 - **B.S. in Computer Science**, XYZ University (Graduated: 2022)
-
-## 🌐 Open Source Contributions
-- Contributor to [React.js](https://github.com/facebook/react)
-- Maintainer of [Awesome Python Libraries](https://github.com/yourusername/awesome-python-libraries)
-
-## 📝 Publications
-- "Understanding Deep Learning Models" - Published in ABC Journal, 2023
-
-## 🌍 Languages
-- English (Fluent)
-- Korean (Native)
-
-## 🎯 Interests
-- Artificial Intelligence, Data Science, Chess
-
-## 🔗 References
-Available upon request.
