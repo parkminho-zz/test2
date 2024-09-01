@@ -42,14 +42,11 @@ Welcome to my GitHub portfolio! Here you'll find an overview of my skills, exper
 ## 🏆 Awards & Recognition
 - **SSAFY:** 공통프로젝트 우수상(1등)
 
-## 💼 Professional Experience
-### Software Engineer at ABC Corp
-- **Duration:** January 2020 - Present
-- **Key Responsibilities:** 
-  - Led the development of a microservices architecture.
-  - Improved system performance by 30% by optimizing database queries.
-- **Projects:**
-  - Developed an AI-based recommendation system that increased user engagement by 20%.
+## 💼 Team Project
+- **HealthLong Project:** 시간권 기반으로 전국 어디서나 헬스장을 이용할 수 있는 서비스를 개발하였으며, 다양한 헬스 관련 정보를 제공하여 효율적인 운동을 지원.
+- **EternityStar Project:** 반려동물의 이별로 인한 상실감을 극복하고 일상 회복을 돕기 위한 서비스를 기획 및 개발.
+
 
 ## 🎓 Education
-- **B.S. in Computer Science**, XYZ University (Graduated: 2022)
+- **SSAFY** (삼성 청년 소프트웨어 아카데미), 2023. 1 ~ 현재
+
